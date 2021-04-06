@@ -6,7 +6,7 @@ I'm a technologist, digital civics researcher and an interaction designer intere
 - 📊 I’m interested in data viz and maps
 - 📫 You can reach me on [email](aare.puussaar@gmail.com) or [Linkedin](https://www.linkedin.com/in/puussaare/)
 
-## Current Stack
+### Current Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="32" style="max-width:100%;">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" width="32" style="max-width:100%;">
