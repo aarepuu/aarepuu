@@ -20,4 +20,5 @@ I'm a technologist, digital civics researcher and an interaction designer intere
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png" width="32" style="max-width:100%;">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="32" style="max-width:100%;">
   <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="32" style="max-width:100%;">
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="32" style="max-width:100%;">
 </p>
