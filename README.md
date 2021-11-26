@@ -2,7 +2,7 @@
 
 I'm a technologist, digital civics researcher and an interaction designer interested in effective use of data for social good. Currently working as a research fellow with [Centre for Digital Citizens](https://www.digitalcitizens.uk/) project. I build technologies for helping citizens access and use data to make informed decisions and impove their lives.
 
-- 📘 I'm currently enjoy writing code in Typescript
+- 📘 I'm currently enjoying writing code in Typescript
 - 📊 I’m interested in data viz and maps
 - 📫 You can reach me via [email](aare.puussaar@gmail.com) or [Linkedin](https://www.linkedin.com/in/puussaare/)
 
