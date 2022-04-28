@@ -4,7 +4,7 @@ I'm a technologist, digital civics researcher and an interaction designer intere
 
 - 📘 I'm currently enjoying writing code in Typescript
 - 📊 I’m interested in data viz and maps
-- 📫 You can reach me via [email](aare.puussaar@gmail.com) or [Linkedin](https://www.linkedin.com/in/puussaare/)
+- 📫 You can reach me via [email](mailto:aare.puussaar@gmail.com) or [Linkedin](https://www.linkedin.com/in/puussaare/)
 
 ### Current Stack
 <p align="left">
