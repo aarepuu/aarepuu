@@ -1,6 +1,6 @@
 ### I'm Aare Puussaar 👋
 
-I'm a technologists, digital civics researcher and an interaction designer interested in effective use of data for social good. I build technologies for helping people access and use data to make informed decisions and improve their lives.
+I am a technologists, digital civics researcher and an interaction designer interested in effective use of data for social good. I build technologies for helping people access and use data to make informed decisions and improve their lives.
 
 - 📘 I'm currently enjoying writing code in Typescript
 - 📊 I’m interested in data viz and maps
